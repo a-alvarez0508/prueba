@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=ValidadorCliente
-comment1.params=c
-comment1.target=void\ validarCliente(modelo.Cliente)
-numComments=2
