@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=VistaGui
+comment1.params=
+comment1.target=VistaGui()
+comment2.params=
+comment2.target=void\ ventanaRegistrarCliente()
+comment3.params=
+comment3.target=void\ ventanaConsultarCliente()
+comment4.params=
+comment4.target=void\ ventanaRegistrarInstrumento()
+comment5.params=
+comment5.target=void\ ventanaInstrumentosCliente()
+comment6.params=
+comment6.target=void\ ventanaInstrumentosGlobales()
+comment7.params=
+comment7.target=void\ ventanaEliminarCliente()
+comment8.params=
+comment8.target=void\ ventanaListarClientes()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=id\ nombreCompleto\ correo
+comment1.target=Cliente(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=ins
+comment2.target=void\ agregarInstrumento(Instrumento)
+comment3.params=obj
+comment3.target=boolean\ menorQue(Comparable)
+comment4.params=
+comment4.target=java.lang.String\ getId()
+comment5.params=
+comment5.target=java.lang.String\ getNombreCompleto()
+comment6.params=
+comment6.target=java.lang.String\ getCorreo()
+comment7.params=
+comment7.target=java.lang.String\ getCodigoCliente()
+comment8.params=
+comment8.target=java.util.ArrayList\ getInstrumentos()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
